@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.exe
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.deps.json
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.runtimeconfig.json
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.dll
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\bin\Debug\netcoreapp3.1\IncomeTax.pdb
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.AssemblyInfo.cs
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.dll
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.pdb
+C:\Users\juan_\source\repos\IncomeTax\IncomeTax\obj\Debug\netcoreapp3.1\IncomeTax.genruntimeconfig.cache
